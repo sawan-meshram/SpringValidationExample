@@ -10,7 +10,7 @@ To apply the validation on server-side, there are fews annotation used on this p
 - **@Pattern**
 - **@AssertTrue**
 
-Also, I have used **`BindingResult` ** class to bind the validation with front-end.
+Also, I have used **`BindingResult`** class to bind the validation with front-end.
 
 To show the validation on front-end, used **Thymeleaf** template.
 
